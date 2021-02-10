@@ -5955,6 +5955,11 @@
             "source": "https://github.com/probot/probot"
         },
         {
+            "title": "Processing",
+            "hex": "010408",
+            "source": "https://processing.org/download/"
+        }
+        {
             "title": "ProcessWire",
             "hex": "EF145F",
             "source": "https://github.com/processwire"
